@@ -31,7 +31,7 @@ int main()
     
 	cout << "\n\nPominville stats: ";
     Pominville.print();
-		cout<<goals;
+		cout << goals;
     cout << "\n\n";
     return 0;
 }
